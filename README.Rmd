@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "Chin-Cheng Liang"
+date: "12/19/2016"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 繁體中文語料庫
+
+
+- [x] 三國演義
+- [] 紅樓夢
